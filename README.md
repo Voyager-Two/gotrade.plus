@@ -1,6 +1,7 @@
-### Full source code for [gotrade.emre.earth](https://gotrade.emre.earth), a specialized Reddit search engine for a CSGO Steam item trading [subreddit](https://www.reddit.com/r/GlobalOffensiveTrade).
+#### Deprecated and outdated project. Code originally **written in 2018**.
 
-- Deprecated and outdated project. Code originally **written in 2018**.
+
+### Full source code for [gotrade.emre.earth](https://gotrade.emre.earth), a specialized Reddit search engine for a CSGO Steam item trading [subreddit](https://www.reddit.com/r/GlobalOffensiveTrade).
   
 - [MySQL DB structure](https://gist.github.com/Voyager451/246d7ad4d2edf28daf5ad06e29dec6be)
 - Search engine is powered by  [Sphinx](http://sphinxsearch.com).
